@@ -11,6 +11,12 @@ variable "controller_ip" {
 variable "ace_password" {
 }
 
+variable "AWS_ACCESS_KEY_ID" {
+}
+
+variable "AWS_SECRET_ACCESS_KEY" {
+}
+
 variable "aws_account_name" {
   default = "aws-account"
 }
