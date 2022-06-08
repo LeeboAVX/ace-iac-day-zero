@@ -52,7 +52,7 @@ variable "aws_test_instance_size" {
 }
 
 variable "azure_account_name" {
-  default = "Azure"
+  default = "azure-account"
 }
 
 variable "azure_subscription_id" {
